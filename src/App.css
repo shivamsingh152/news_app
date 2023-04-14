@@ -1,0 +1,33 @@
+body{
+  background-color:azure;
+}
+nav {
+  position: relative;
+  left: 0;
+  font-weight: 500;
+}
+.nav-link:hover {
+  color: crimson;
+  display: inline;
+  }
+.btn{
+    background-color:crimson;
+    color: white;
+  }
+.btn:hover{
+  background-color: cornflowerblue;
+}
+.card-body{
+  background-color: aliceblue;
+}
+footer{
+  height: 10px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-bottom: 0;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
